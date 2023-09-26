@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c5KXSpcLlunmRZztS0J+HQw7b9YKmpwI0G35JMjl91M=",
+  "Source": "DotNetEFCoreWithSwagger",
+  "BasePath": "_content/DotNetEFCoreWithSwagger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
